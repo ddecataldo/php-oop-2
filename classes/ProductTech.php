@@ -19,6 +19,7 @@ class ProductTech extends Products{
 
     // Getters and Setters
     
+    
     /* Brand */
     function set_brand($nuovoBrand){
         if(is_null($nuovoBrand)){

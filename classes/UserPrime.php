@@ -15,7 +15,7 @@ class UserPrime extends User{
     } 
 
     // Getters and Setters
-
+    
     function set_sconto($scontoPrime){
         if(!is_numeric($scontoPrime)){
             return;
